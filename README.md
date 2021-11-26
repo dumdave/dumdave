@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @dumdave (Iota Discord handle)
+- 👀 I’m interested in pretty well everything about Iota (and Shimmer)
+- 🌱 I like to write guides that make lives easier for semi-technical people
+- 💞️ I’m looking to collaborate on creating DAO 'Web of Trust' structures for Iota, Shimmer and beyond
+- 📫 Always best to reach me in the Iota Discord, but 
+- also see my sites at www.TangleDust.com and www.ShimmerDAO.com
